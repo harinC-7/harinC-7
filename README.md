@@ -3,20 +3,20 @@
 
 **`Designer e Dev Front-end`**
 
+<div align=right>
+    <a href="https://www.linkedin.com/in/st-causso/">
+    <img src="https://github.com/user-attachments/assets/19673603-00ca-417c-afd6-48f05fe055b6" width="32px" alt="LinkedIn" title="LinkedIn"/>
+</a> &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.instagram.com/harin_artcreations/">
+    <img src="https://github.com/user-attachments/assets/b82b3640-9195-4b2c-b6fe-3c7c253ae134" width="32px" alt="Instagram" title="Instagram"/>
+</a>
+</div>
+
+<br>
+
 <p align="left">
  Tenho interesse na área da tecnologia, principalmente em desenvolvimento de software e design digital, especialmente UI e UX, e quero continuar aprendendo novas tecnologias, para adquirir cada vez conhecimento desse ramo. Além de estar estudando inglês constantemente para aprimoração e futura fluência, atualmente estou com um nível B1 e avançando para o nível B2!
  </p> <br>
-
-
-
-<div style="position: absolute; right: 80px; top: 30px; z-index: 1000;">
-    <a href="https://www.linkedin.com/in/st-causso/">
-    <img src="linkedin.png" width="32px" alt="LinkedIn" title="LinkedIn"/>
-</a> &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.linkedin.com/in/st-causso/](https://www.instagram.com/harin_artcreations/)">
-    <img src="https://github.com/user-attachments/assets/b82b3640-9195-4b2c-b6fe-3c7c253ae134" width="32px" alt="LinkedIn" title="LinkedIn"/>
-</a>
-</div>
 
 
 
