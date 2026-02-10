@@ -23,10 +23,7 @@
 <p align="left"> -  🎒 Estudei na <b>ETEC Uirapuru</b>, cursando <b>Desenvolvimento de Sistemas</b>. </p>
 <p align="left"> -  🏫 Atualmente cursando <b>Design de Mídias Digitais</b>, na <b>Fatec Carapicuíba</b>. </p>
 <p align="left"> -  📱 Gosto de desenvolver <b>Softwares Mobile</b> e Sistemas Embarcados. </p>
-<p align="left"> -  🖼️ Além de criação de  <b>artes digitais e designs variados</b>, onde eu compartilho atráves do meu Instagram:
-
- 🎨 "[harin_artcreations](https://www.instagram.com/harin_artcreations/)". </p><br>
- ---
+<p align="left"> -  🖼️ Além de criação de  <b>artes digitais e designs variados</b>
 
 ## ⚙️ Linguagens e Tecnologias 
 
